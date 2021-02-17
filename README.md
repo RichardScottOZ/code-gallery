@@ -19,7 +19,7 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 ## Data Access through SpatioTemporal Asset Catalog API (STAC)
 
-- [Introduction to the SpatioTemporal Asset Catalog] 
+- <b>Introduction to the SpatioTemporal Asset Catalog 
   - [Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-introduction.ipynb).
   - [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/stac/stac-introduction.ipynb).
 
